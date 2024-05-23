@@ -5,6 +5,6 @@ Every day I immerse myself in the world of big data. I have experience working w
 ### Skills and tools
 Python, pandas, seaborn, numpy, matplotlib, plotly, SQL, PostgreSQL, Tableau Public 
 ### Connect with me:
-Telegram: [](https://t.me/rakiton94) 
-Email: [](rakitina.iolanta@yandex.ru)
-Resume: [](https://hh.ru)
+Telegram: [rakiton94](https://t.me/rakiton94) 
+Email: [mail](rakitina.iolanta@yandex.ru)
+Resume: [hh](https://hh.ru)
