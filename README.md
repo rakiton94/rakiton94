@@ -7,6 +7,6 @@ Python, pandas, seaborn, numpy, matplotlib, plotly, SQL, PostgreSQL, Tableau Pub
 ### Connect with me:
 Telegram: [https://t.me/rakiton94](https://t.me/rakiton94)
 
-Email: [rakitina.iolanta@yandex.ru](rakitina.iolanta@yandex.ru)
+Email: [rakitina.iolanta@yandex.ru](mailto:rakitina.iolanta@yandex.ru)
 
 Resume: [hh.ru](https://hh.ru)
